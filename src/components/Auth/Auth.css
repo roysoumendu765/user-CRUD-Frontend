@@ -1,0 +1,13 @@
+.main-container{
+    background-image: url('../../../public/login_main.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    mix-blend-mode: darken;
+}
+.loginimg{
+    background-image: url('../../../public/login_side.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
